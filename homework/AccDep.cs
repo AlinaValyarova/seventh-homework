@@ -4,10 +4,8 @@ using System.Text;
 
 namespace homework
 {
-    class director : emploee
+    public class AccDep
     {
-
+        public class AccDir : Employee { }
     }
-
-    class 
 }
